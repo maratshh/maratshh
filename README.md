@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Привет, я Марат
 
-<!--
-**maratshh/maratshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist** — занимаюсь машинным обучением и анализом данных.  
+Мне всегда нравилось работать со структурированной информацией, искать закономерности и проверять гипотезы. Во время учебы в вузе увлекался математическими дисциплинами, и этот интерес привёл меня к Data Science. Сейчас продолжаю развиваться через обучение и практические проекты.
 
-Here are some ideas to get you started:
+## 🚀 Навыки и инструменты  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки и библиотеки**  
+- Python (pandas, NumPy, SciPy, matplotlib, seaborn)  
+- Scikit-learn (классификация, регрессия, кластеризация, отбор признаков)  
+- TensorFlow / Keras (нейронные сети, CNN, NLP)  
+- LightGBM, CatBoost 
+- SQL (запросы, агрегации, подзапросы)  
+
+## 📂 Проекты  
+- 🛢 **Оптимизация выбора региона для нефтяной скважины**  
+  *Модель линейной регрессии, bootstrap-анализ рисков и прибыли.*  
+- 📈 **Прогнозирование количества заказов такси (временные ряды)**  
+  *Feature engineering (лаги, скользящие средние).*  
+- 🧾 **Классификация токсичных комментариев (NLP)**  
+  *BERT, логистическая регрессия, метрика ROC-AUC.*  
+- 🖼 **Компьютерное зрение: классификация изображений**  
+  *CNN (Keras), Image Augmentation, динамический learning rate (ReduceLROnPlateau).*  
+
+## 📌 Немного обо мне  
+
+♟ Увлекаюсь шахматами: люблю стратегию, аналитику и просчитывать ходы наперёд.  
+📚 Планирую участвовать в хакатонах и open-source проектах.
+
+📫 **Как связаться:**  
+[Email](#) | [Telegram](#)  
