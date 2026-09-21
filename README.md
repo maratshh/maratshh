@@ -18,7 +18,7 @@ feature engineering, SARIMAX, Линейная регрессия
 - **CV: Определение возраста покупателя по фото**\
 CNN, Image Augmentation, динамический learning rate (ReduceLROnPlateau)
 
-## Языки и инструменты
+## Стек
 
 - Python: `Pandas`, `NumPy`, `statsmodels`, `matplotlib`
 - ML: `sklearn`, `LightGBM`, `CatBoost`, `SHAP`, `feature engineering`
