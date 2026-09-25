@@ -20,8 +20,7 @@ CNN, Image Augmentation, динамический learning rate (ReduceLROnPlate
 
 ## Стек
 
-- Python: `Pandas`, `NumPy`, `statsmodels`, `matplotlib`
-- ML: `sklearn`, `LightGBM`, `CatBoost`, `SHAP`, `feature engineering`
-- Нейронные сети: `PyTorch`, `CNN`
-- Оптимизация и эксперименты: `Optuna`, `MLflow`
-- `PostgreSQL`, `git`
+- Языки и инструменты: `Python`, `SQL`, `git`
+- Анализ данных: `Pandas`, `NumPy`, `statsmodels`, `matplotlib`, `seaborn`
+- ML: `sklearn`, `LightGBM`, `CatBoost`, `Optuna`, `MLflow`, `SHAP`, `feature engineering`
+- Глубокое обучение: `PyTorch`, `CNN`, `ResNet`
